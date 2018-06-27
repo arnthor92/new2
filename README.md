@@ -1,2 +1,2 @@
 # new2
-node.js
+node.js practice: implements a logger
